@@ -1,0 +1,7 @@
+We have to type ng serve and then when the code is running on localhost 4200.
+Then ng generate interface poll --type=models to create a poll model in project.
+Option is an array of option vote and option vote contains optiontext and votes inside it.
+Then run ng generate service poll --skip-tests which will create poll.service.
+Then on cmd ng generate component poll -skip-tests which will generate three files inside poll.
+Then in cmd type npm install bootstrap to make sure that bootstrap is installed in node modules.
+4.20.19 ts...
