@@ -1,0 +1,5 @@
+This project requires some pre-requisites:-
+angular js version 19 or above.
+node js version 19 or above.
+jdk version 19 or above.
+and VS Code and Intel-Ij to run files.
